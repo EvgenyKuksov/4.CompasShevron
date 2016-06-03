@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.813,=C:\Users\Татьяна\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,C:\Users\Татьяна\Desktop\шевронные\Project2.dproj=C:\Users\Татьяна\Desktop\Институт\4 семестр\Автоматизированное проектирование изделий\чертеж в  компасе\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,C:\Users\Татьяна\Desktop\Институт\4 семестр\Автоматизированное проектирование изделий\чертеж в  компасе\Project2.dproj=C:\Users\Татьяна\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.327,C:\Users\Татьяна\Desktop\шевронные\Unit2.pas=C:\Users\Татьяна\Desktop\Институт\4 семестр\Автоматизированное проектирование изделий\чертеж в  компасе\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,C:\Users\Татьяна\Desktop\Институт\4 семестр\Автоматизированное проектирование изделий\чертеж в  компасе\Unit2.dfm=C:\Users\Татьяна\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\Татьяна\Desktop\шевронные\Unit2.dfm=C:\Users\Татьяна\Desktop\Институт\4 семестр\Автоматизированное проектирование изделий\чертеж в  компасе\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,=C:\Users\Evgeny\Documents\Embarcadero\Studio\17.0\Imports\Kompas6Constants3D_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,=C:\Users\Татьяна\Documents\Embarcadero\Studio\17.0\Imports\Kompas6Constants_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.658,=C:\Users\Evgeny\Documents\Embarcadero\Studio\17.0\Imports\Kompas6API5_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.132,C:\Users\Татьяна\Desktop\шевронные\Kompas6Constants_TLB.pas=C:\Users\Татьяна\Documents\Embarcadero\Studio\17.0\Imports\Kompas6Constants_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,C:\Users\Татьяна\Desktop\Институт\4 семестр\Автоматизированное проектирование изделий\чертеж в  компасе\Unit2.pas=C:\Users\Татьяна\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.267,=C:\Users\Татьяна\Documents\Embarcadero\Studio\17.0\Imports\KompasAPI7_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,C:\Users\Татьяна\Desktop\шевронные\KompasAPI7_TLB.pas=C:\Users\Татьяна\Documents\Embarcadero\Studio\17.0\Imports\KompasAPI7_TLB.pas</Transaction>
+  </Transactions>
+</BorlandProject>
